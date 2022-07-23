@@ -1,0 +1,1 @@
+Contains warmup question for revision of basic syntax of c++.
